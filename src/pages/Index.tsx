@@ -32,7 +32,7 @@ const Index = () => {
         <meta property="og:site_name" content="Prasad Bhalerao Portfolio" />
         <meta
           property="og:image"
-          content="https://prasadbhalerao.vercel.app/photo/Photo.png"
+          content="https://prasadbhalerao.vercel.app/photo/Logo.png?v=3"
         />
         <meta property="og:url" content="https://prasadbhalerao.vercel.app/" />
       </Helmet>
