@@ -59,5 +59,21 @@ export const achievements: Achievement[] = [
     description: "State level 24/7 hackathon and coding competion arranged by Coding Club RSCOE",
     issuer: "Coding Club RSCOE",
   },
+  {
+    id: 7,
+    title: "Complete Web Development Course",
+    image: "/certificates/UdemyWebDev.jpg",
+    date: "March 2026",
+    description: "Complete web development course by Hitesh Choudhary on Udemy.",
+    issuer: "Udemy",
+  },
+  {
+    id: 8,
+    title: "National Level AI Symposium & Hackathon",
+    image: "/certificates/VIT-AI-Symposium.png",
+    date: "March 2026",
+    description: "Participated in the National Level AI Symposium : 'Intelligence Beyond Code 2K26'.",
+    issuer: "VIT",
+  },
   // Add more achievements here
 ];
